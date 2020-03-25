@@ -59,7 +59,6 @@ const suspectsArray = [
 ];
 
 // Rooms Collection
-const roomsArray = [];
 const roomsArray = [
     {name: "Dining Room"},
     {name: "Conservatory"},
@@ -79,7 +78,6 @@ const roomsArray = [
 ];
 
 // Weapons Collection
-const weaponsArray = [];
 const weaponsArray = [
     {
         name: "rope", 
